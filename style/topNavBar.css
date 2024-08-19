@@ -1,7 +1,6 @@
 /*right side main logo style*/
 #mainIcon{
     display: flex;
-    flex-direction: row;
     align-items: center;
 }
 
@@ -30,6 +29,7 @@
 
 .ContactIcon
 .icon{
+    display: inline;
     margin:0px 11px;
     margin-left:0px ;
 }

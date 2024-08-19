@@ -3,6 +3,9 @@ body{
     min-width: 1050px;
     background: linear-gradient(180deg, #FAFAFA 0%, #FCFCFC 100%);
 }
+button {
+    all: unset;
+}
 
 header{
     margin: 0 72px;
